@@ -27,4 +27,4 @@ def sum_of(x):
 print(sum_of(1000))
 end_time = time.clock()
 print(end_time - start_time)
-# Completed on 25th March 2015 18:15 PM
+# Completed using brute force 25th March 2015 18:15 PM
