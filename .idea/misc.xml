@@ -20,7 +20,21 @@
   <component name="ProjectModuleManager">
     <modules />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.4.3 (D:\Programming\Python\Interpreter\python.exe)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.4.3 (/Library/Frameworks/Python.framework/Versions/3.4/bin/python3.4)" project-jdk-type="Python SDK" />
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="configurable.group.project" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+>>>>>>> origin/master
   <component name="RunManager">
     <list size="0" />
   </component>
