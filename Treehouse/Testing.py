@@ -1,6 +1,8 @@
-def nchoices(iterable, int):
-  my_list = []
-  for item in iterable:
-    if int in item:
-      my_list.append(item)
+from animal import Animal
 
+class Sheep(Animal):
+  pass
+  sound = 'Baah'
+
+  def noise(self):
+      self.sound.upper()
